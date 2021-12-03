@@ -1,6 +1,6 @@
 # mqtt2sound
 
-A simple mqtt controlled multitrack 8 channel player.
+A simple mqtt controlled multitrack 8 tracks player.
 
 It uses pygame and the paho mqtt library.
 
